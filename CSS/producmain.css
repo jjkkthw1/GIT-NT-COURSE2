@@ -1,0 +1,21 @@
+footer{
+    text-align: center;
+    background-color: dimgray;
+    color: rgb(221, 216, 216);
+}
+nav{
+    text-align: right;
+    background-color: firebrick;
+}
+header{
+    background-color: firebrick;
+}
+
+nav a{
+    color: rgb(235, 228, 228);
+    text-decoration: none;
+    font-size: 0.8em;
+}
+table{
+    background-color: cornsilk;
+}
